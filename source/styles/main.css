@@ -10,55 +10,17 @@ body{
     font-size: 14px;
 }
 
-h1{
-    font-size: 3rem;
-    font-weight: 400;
+/*carousel*/
+
+.carousel-section {
+    width: 100%;
 }
 
-a{
-    text-decoration: none;
-    color: #262626;
+
+/*showcase*/
+
+.tab-panel{
+    margin: 100px auto;
 }
 
-a > i{
-    padding-left: .5rem;
-}
 
-ul {
-    list-style: none;
-}
-
-.container{
-    max-width: 1320px;
-    margin:auto;
-}
-
-.nav{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    height: 60px;
-    padding: 1rem;
-}
-
-.nav .logo{
-    max-height: 25px;
-    width: 110px;
-}
-
-.nav ul {
-    display: flex;
-}
-
-.nav ul li{
-    padding: 0 10px;
-}
-
-.nav ul.nav-left-list {
-    flex: 1;
-    margin-left: 20px;
-}
-
-.nav ul li a:hover{
-    border-bottom: 2px solid #262626;
-}
