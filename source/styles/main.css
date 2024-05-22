@@ -23,4 +23,10 @@ body{
     margin: 100px auto;
 }
 
+.social a i {
+    color: #000;
+}
 
+.social a i {
+    margin: 0 10px;
+}
